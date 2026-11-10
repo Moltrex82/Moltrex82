@@ -39,12 +39,7 @@ Construyo sistemas de identificación biométrica y control de acceso: APIs en .
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-## Proyectos
-
-La mayor parte de mi trabajo es privado. Lo público es una muestra:
-
-- [Prueba-Genkit-Firebase](https://github.com/Moltrex82/Prueba-Genkit-Firebase): app Next.js con Genkit y Firebase.
-
+ 
 ## Ahora mismo
 
 - 💼 Trabajando en Facepass SpA
@@ -53,4 +48,3 @@ La mayor parte de mi trabajo es privado. Lo público es una muestra:
 ## Contacto
 
 - [LinkedIn](https://www.linkedin.com/in/daniel-leogardo-martinez-alday)
-- daniel.martinez00@gmail.com
